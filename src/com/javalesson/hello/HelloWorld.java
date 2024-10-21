@@ -7,5 +7,6 @@ public class HelloWorld {
 
         byte b = 10;
         System.out.println("b = "+b);
+        System.out.println("Hello");
     }
 }
